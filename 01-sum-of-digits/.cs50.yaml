@@ -1,3 +1,2 @@
-
 check50:
   checks: __init__.py

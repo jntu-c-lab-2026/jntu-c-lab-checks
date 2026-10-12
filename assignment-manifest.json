@@ -1,0 +1,47 @@
+{
+  "course": "JNTU C Programming and Data Structures Lab",
+  "source_page": "2009-10 JNTU Anantapur B.Tech I Year",
+  "assignments": [
+    {
+      "slug": "01-sum-of-digits",
+      "title": "Week 1(a): Sum of Individual Digits",
+      "starter_file": "sum_digits.c"
+    },
+    {
+      "slug": "02-fibonacci",
+      "title": "Week 1(b): First n Fibonacci Terms",
+      "starter_file": "fibonacci.c"
+    },
+    {
+      "slug": "03-primes",
+      "title": "Week 1(c): Prime Numbers from 1 to n",
+      "starter_file": "primes.c"
+    },
+    {
+      "slug": "04-series-sum",
+      "title": "Week 2(a): Power/Factorial Series",
+      "starter_file": "series_sum.c"
+    },
+    {
+      "slug": "05-quadratic-roots",
+      "title": "Week 2(b): Roots of a Quadratic Equation",
+      "starter_file": "quadratic.c"
+    },
+    {
+      "slug": "06-factorial-recursive",
+      "title": "Week 3(i): Factorial \u2014 Recursive and Non-Recursive",
+      "starter_file": "factorial.c"
+    },
+    {
+      "slug": "07-gcd-recursive",
+      "title": "Week 3(ii): GCD \u2014 Recursive and Non-Recursive",
+      "starter_file": "gcd.c"
+    },
+    {
+      "slug": "08-towers-of-hanoi",
+      "title": "Week 3(iii): Towers of Hanoi",
+      "starter_file": "hanoi.c"
+    }
+  ],
+  "notes": "Classroom 50 deployment plus CS50 check50 self-checks."
+}
